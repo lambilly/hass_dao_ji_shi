@@ -1,0 +1,182 @@
+{
+    "2025-01-01": {
+        "name": "元旦",
+        "describe": "元旦",
+		"type": "normal",
+		"show": true
+    },
+    "2025-01-28": {
+        "name": "除夕",
+        "describe": "甲辰龙年除夕",
+		"type": "lunar",
+		"show": true
+    },	
+    "2025-02-14": {
+        "name": "情人节",
+        "describe": "西方情人节",
+        "type": "normal",
+        "show": true
+    },	
+    "2025-04-04": {
+        "name": "清明节",
+        "describe": "清明节",
+		"type": "normal",		
+		"show": true		
+    },	
+    "2025-05-01": {
+        "name": "劳动节",
+        "describe": "国际劳动节",
+		"type": "normal",		
+		"show": true		
+    },		
+    "2025-05-11": {
+        "name": "母亲节",
+        "describe": "五月的第二个星期日母亲节",
+		"type": "normal",		
+		"show": true		
+    },
+    "2025-05-31": {
+        "name": "端午节",
+        "describe": "农历五月初五端午节",
+		"type": "lunar",		
+		"show": true		
+    },
+    "2025-06-15": {
+        "name": "父亲节",
+        "describe": "六月的第三个星期日父亲节",
+		"type": "normal",		
+		"show": true		
+    },
+    "2025-07-26": {
+        "name": "录取结果公布",
+        "describe": "高考录取结果公布日",
+		"type": "important",		
+		"show": true		
+    },		
+    "2025-10-01": {
+        "name": "国庆节",
+        "describe": "中华人民共和国成立纪念日",
+		"type": "normal",		
+		"show": true		
+    },
+    "2025-10-06": {
+        "name": "中秋节",
+        "describe": "农历八月十五中秋节",
+		"type": "lunar",		
+		"show": true		
+    },	
+    "2026-02-16": {
+        "name": "除夕",
+        "describe": "乙巳蛇年除夕",
+        "type": "lunar",
+        "show": true
+    },
+    "2026-02-17": {
+        "name": "春节",
+        "describe": "丙午马年春节",
+        "type": "lunar",
+        "show": true
+    },
+    "2026-04-05": {
+        "name": "清明节",
+        "describe": "清明节",
+        "type": "normal",
+        "show": true
+    },
+    "2026-09-27": {
+        "name": "中秋节",
+        "describe": "农历八月十五中秋节",
+        "type": "lunar",
+        "show": true
+    },
+    "2027-02-05": {
+        "name": "除夕",
+        "describe": "丙午马年除夕",
+        "type": "lunar",
+        "show": true
+    },
+    "2027-02-06": {
+        "name": "春节",
+        "describe": "丁未羊年春节",
+        "type": "lunar",
+        "show": true
+    },
+    "2027-04-05": {
+        "name": "清明节",
+        "describe": "清明节",
+        "type": "normal",
+        "show": true
+    },
+    "2027-06-09": {
+        "name": "端午节",
+        "describe": "农历五月初五端午节",
+        "type": "lunar",
+        "show": true
+    },
+    "2027-09-15": {
+        "name": "中秋节",
+        "describe": "农历八月十五中秋节",
+        "type": "lunar",
+        "show": true
+    },
+    "2028-01-25": {
+        "name": "除夕",
+        "describe": "丁未羊年除夕",
+        "type": "lunar",
+        "show": true
+    },
+    "2028-01-26": {
+        "name": "春节",
+        "describe": "戊申猴年春节",
+        "type": "lunar",
+        "show": true
+    },
+    "2028-04-04": {
+        "name": "清明节",
+        "describe": "清明节",
+        "type": "normal",
+        "show": true
+    },
+    "2028-05-28": {
+        "name": "端午节",
+        "describe": "农历五月初五端午节",
+        "type": "lunar",
+        "show": true
+    },
+    "2028-10-04": {
+        "name": "中秋节",
+        "describe": "农历八月十五中秋节",
+        "type": "lunar",
+        "show": true
+    },
+    "2029-02-12": {
+        "name": "除夕",
+        "describe": "戊申猴年除夕",
+        "type": "lunar",
+        "show": true
+    },
+    "2029-02-13": {
+        "name": "春节",
+        "describe": "己酉鸡年春节",
+        "type": "lunar",
+        "show": true
+    },
+    "2029-04-05": {
+        "name": "清明节",
+        "describe": "清明节",
+        "type": "normal",
+        "show": true
+    },
+    "2029-05-27": {
+        "name": "端午节",
+        "describe": "农历五月初五端午节",
+        "type": "lunar",
+        "show": true
+    },
+    "2029-09-24": {
+        "name": "中秋节",
+        "describe": "农历八月十五中秋节",
+        "type": "lunar",
+        "show": true
+    }
+}

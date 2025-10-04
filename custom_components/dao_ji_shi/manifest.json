@@ -1,0 +1,14 @@
+{
+  "domain": "dao_ji_shi",
+  "name": "倒计时",
+  "version": "1.0.0",
+  "codeowners": ["@lambilly"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/lambilly/dao_ji_shi",
+  "issue_tracker": "https://github.com/lambilly/dao_ji_shi/issues",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "loggers": ["dao_ji_shi"],
+  "translations": ["translations"]
+}
