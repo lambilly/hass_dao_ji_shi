@@ -1,4 +1,4 @@
-# 倒计时集成 (Dao Ji Shi)
+# 倒计时(Dao Ji Shi) Home Assistant 集成
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
