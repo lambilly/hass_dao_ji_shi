@@ -1,5 +1,3 @@
-
-## 3. INFO.md
 ```markdown
 ## 倒计时集成
 
