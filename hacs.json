@@ -1,0 +1,13 @@
+{
+  "name": "倒计时",
+  "render_readme": true,
+  "domains": ["sensor"],
+  "homeassistant": "2023.8.0",
+  "iot_class": "Local Polling",
+  "zip_release": false,
+  "filename": "dao_ji_shi.zip",
+  "hide_default_branch": true,
+  "persistent_directory": "anniversary",
+  "country": ["CN"],
+  "codeowners": ["@lambilly"]
+}
