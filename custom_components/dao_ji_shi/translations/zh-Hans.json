@@ -1,0 +1,29 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "倒计时配置",
+        "description": "配置倒计时集成选项",
+        "data": {
+          "update_interval": "更新间隔（分钟）"
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "集成已配置",
+      "single_instance_allowed": "只允许单个实例"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "倒计时选项",
+        "description": "调整倒计时设置",
+        "data": {
+          "update_interval": "更新间隔（分钟）"
+        }
+      }
+    }
+  },
+  "title": "倒计时"
+}
