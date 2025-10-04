@@ -102,7 +102,8 @@ entities:
     name: 纪念日数据
   - entity: sensor.dao_ji_shi_anniversary_manager
     name: 纪念日管理
-数据格式
+
+# 数据格式
 纪念日数据存储在 anniversary.json 文件中：
 
 json
@@ -114,8 +115,8 @@ json
     "show": true
   }
 }
-故障排除
-常见问题
+# 故障排除
+## 常见问题
 集成无法加载
 
 检查 Home Assistant 版本是否符合要求
