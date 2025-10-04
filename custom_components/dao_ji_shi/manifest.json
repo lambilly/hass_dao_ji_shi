@@ -5,10 +5,11 @@
   "codeowners": ["@lambilly"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/lambilly/dao_ji_shi",
-  "issue_tracker": "https://github.com/lambilly/dao_ji_shi/issues",
+  "documentation": "https://github.com/lambilly/hass_dao_ji_shi",
+  "issue_tracker": "https://github.com/lambilly/hass_dao_ji_shi/issues",
   "iot_class": "local_polling",
   "requirements": [],
   "loggers": ["dao_ji_shi"],
   "translations": ["translations"]
+
 }
