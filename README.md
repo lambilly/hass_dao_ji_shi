@@ -32,7 +32,7 @@
 
 1. 在 HACS 中点击「集成」
 2. 点击右上角的三个点，选择「自定义仓库」
-3. 添加仓库：`https://github.com/lambilly/dao_ji_shi`
+3. 添加仓库：`https://github.com/lambilly/hass_dao_ji_shi`
 4. 选择分类为「集成」
 5. 点击「下载」安装
 6. 重启 Home Assistant
