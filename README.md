@@ -1,4 +1,3 @@
-markdown
 # 倒计时集成 (Dao Ji Shi)
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
@@ -91,15 +90,14 @@ markdown
 1. 设置 `delete_date` 属性为要删除的日期
 2. 调用服务 `sensor.anniversary_manager_delete_anniversary`
 
-# 数据格式
-纪念日数据存储在 anniversary.json 文件中：
+### 在 Lovelace 中显示
 
-json
-{
-  "2025-01-01": {
-    "name": "元旦",
-    "describe": "元旦",
-    "type": "normal",
-    "show": true
-  }
-}
+```yaml
+type: entities
+entities:
+  - entity: sensor.dao_ji_shi_countdown
+    name: 倒计时
+  - entity: sensor.dao_ji_shi_anniversary_data
+    name: 纪念日数据
+  - entity: sensor.dao_ji_shi_anniversary_manager
+    name: 纪念日管理
