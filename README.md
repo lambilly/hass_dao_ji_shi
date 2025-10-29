@@ -38,7 +38,7 @@
 2. 点击右上角的三个点，选择「自定义仓库」  
 3. 添加仓库：  
    ```
-   https://github.com/lambilly/dao_ji_shi
+   https://github.com/lambilly/hass_dao_ji_shi
    ```
 4. 选择分类为「集成」  
 5. 点击「下载」安装  
@@ -180,7 +180,7 @@ logger:
 ## 💬 支持与反馈
 
 如果您遇到问题或有功能建议，请：
-- 查看 [GitHub Issues](https://github.com/lambilly/dao_ji_shi/issues)
+- 查看 [GitHub Issues](https://github.com/lambilly/hass_dao_ji_shi/issues)
 - 或创建新的 Issue，提供详细的错误信息和日志  
 
 ---
